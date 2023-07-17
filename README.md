@@ -1,4 +1,4 @@
->**Note**: 
+**Note**: 
 This is README for the Udacity DSN project.
 
 ### Date created
