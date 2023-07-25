@@ -1,6 +1,8 @@
-'''
-code for refactoring branch
-'''
+"""
+file name: bikeshare.py
+
+code merged with all branches
+"""
 
 import time
 import pandas as pd
