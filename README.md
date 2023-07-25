@@ -1,13 +1,18 @@
-
 **Note**: 
 This is README for the Udacity DSN project.
 
 ### Date created
-07/14/2023
+master: 07/13/2023 initial creation
+documentation: 07/14/2023 initial creation
+refactoring: 07/14/2003 initial creation
 
 ### Modifications
-07/17/2003 added the Modification section
-07/17/2003 initial checkin for the refactoring branch
+master: 07/24/2023 merged content from all branches
+master: 07/17/2003 added the Modification section
+documentation: 07/17/2003 added the Modification section
+documentation: 07/21/2023 reformating commit messages per project submission review
+refactoring: 07/17/2003 initial checkin
+refactoring: 07/24/2023 reformatted
 
 ### Project Title
 Udacity DSN Bikeshare Project
