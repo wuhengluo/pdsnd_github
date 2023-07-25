@@ -2,10 +2,12 @@
 This is README for the Udacity DSN project.
 
 ### Date created
-07/14/2023
+refactoring: 07/14/2023 initial creation
 
 ### Modifications
-07/17/2003 initial checkin for the refactoring branch
+refactoring: 07/17/2003 initial checkin
+
+refactoring: 07/24/2023 reformatted
 
 ### Project Title
 Udacity DSN Bikeshare Project
@@ -15,11 +17,14 @@ This project is to use Bikeshare's user data in 3 cities to explore insightful b
 
 ### Files used
 README.md
+
 bikeshare.py
 
 ### Data files (not included in git repo)
 chicago.csv
+
 new_york_city.csv
+
 washington.csv
 
 ### Credits
